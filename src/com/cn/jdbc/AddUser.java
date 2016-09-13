@@ -34,11 +34,11 @@ public class AddUser {
 	public static void main(String[] args) {
 		AddUser addUser = new AddUser();
 		UserVo userVo = new UserVo();
-		int id = 207;
-		String name = "赵六";
+		int id = 2;
+		String name = "战三";
 		int age = 22;
-		String tel = "324242";
-		String address = "北京海淀区";
+		String tel = "456124456";
+		String address = "中国";
 		
 		userVo.setId(id);
 		userVo.setName(name);
